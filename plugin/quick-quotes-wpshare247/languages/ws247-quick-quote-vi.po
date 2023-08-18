@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-12-11 10:34+0700\n"
+"PO-Revision-Date: 2021-07-28 09:15+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - quick-quote-for-service-wpshare247 - Stable (latest release)\n"
+
+msgid "Create quick quotes for all careers and services"
+msgstr "Tạo báo giá nhanh với mọi ngành nghề"
+
+msgid "Configure QQFS"
+msgstr "Cấu hình QQFS"
+
+msgid "Quotes"
+msgstr "Danh sách báo giá"
+
+msgid "Quote Requests"
+msgstr "Yêu cầu báo giá"
+
+msgid "Add new"
+msgstr "Thêm mới"
+
+msgid "You should be careful before deleting this option, as it may involve other data. Do you want to continue deleting or not?"
+msgstr "Bạn nên cẩn thận trước khi xóa option này, vì nó có thể liên quan đến những liệu khác. Bạn có muốn tiếp tục xóa hay không?"
+
+msgid "Title is a required field"
+msgstr "Tiêu đề không được trống"
+
+msgid "Quote does not exist"
+msgstr "Báo giá không tồn tại"
+
+msgid "This quote currently has no steps (Option). Please go to admin for more steps to create a quote."
+msgstr "Báo giá này hiện tại chưa có các bước nào (Option). Hãy vào quản trị thêm các bước để tạo báo giá."
+
+msgid "Next"
+msgstr "Tiếp tục"
+
+msgid "Reset"
+msgstr "Làm lại"
+
+msgid "Finish"
+msgstr "Hoàn tất"
+
+msgid "Thank you for contacting us!"
+msgstr "Cảm ơn bạn đã liên hệ với chúng tôi!"
+
+msgid "Go Back Homepage"
+msgstr "Quay lại trang chủ"
+
+msgid "An error occurred E101"
+msgstr "Có lỗi xảy ra E101"
+
+msgid "There is a new quote request:"
+msgstr "Có yêu cầu báo giá mới:"
+
+msgid "You have just requested a quote:"
+msgstr "Bạn vừa yêu cầu báo giá:"
+
+msgid "from"
+msgstr "từ"
+
+msgid "Content after sending information"
+msgstr "Nội dung sau khi gửi thông tin"
+
+msgid "Manage Options"
+msgstr "Quản lý Option"
+
+msgid "Email for a quote"
+msgstr "Email nhận báo giá"
+
+msgid "Quote request details"
+msgstr "Chi tiết yêu cầu báo giá"
+
+msgid "Status"
+msgstr "Trạng thái"
+
+msgid "Quotation steps"
+msgstr "Các bước báo giá"
+
+msgid "Customer information"
+msgstr "Thông tin khách hàng"
+
+msgid "Quotation total"
+msgstr "Tổng báo giá"
+
+msgid "Quote Status"
+msgstr "Trạng thái báo giá"
+
+msgid "New"
+msgstr "Mới"
+
+msgid "Checked"
+msgstr "Đã xem"
+
+msgid "Contacted"
+msgstr "Đã liên hệ"
+
+msgid "Complete"
+msgstr "Hoàn thành"
+
+msgid "Create a list of quotation steps"
+msgstr "Tạo danh sách các bước của báo giá"
+
+msgid "Drag the options here to create a quote"
+msgstr "Kéo các option vào đây để tạo báo giá"
+
+msgid "Drag and drop options to (*1) to delete"
+msgstr "Kéo thả các option về (*1) để xóa"
+
+msgid "Copy Shortcode and embed anywhere to use."
+msgstr "Copy Shortcode và nhúng vào bất kỳ đâu để sử dụng."
+
+msgid "Create new option"
+msgstr "Tạo mới Option"
+
+msgid "Quotation"
+msgstr "Báo giá"
+
+msgid "Price"
+msgstr "Giá"
+
+msgid "Option name"
+msgstr "Tên option"
+
+msgid "List of options"
+msgstr "Danh sách option"
+
+msgid "No"
+msgstr "STT"
+
+msgid "Name"
+msgstr "Tên"
+
+msgid "Required"
+msgstr "Bắt buộc"
+
+msgid "Choose only one"
+msgstr "Chỉ chọn 1"
+
+msgid "Actions"
+msgstr "Hàng động"
+
+msgid "View"
+msgstr "Xem"
+
+msgid "Delete"
+msgstr "Xóa"
+
+msgid "No options yet. Add new options to start creating quotes."
+msgstr "Chưa có option nào. Thêm mới các option để bắt đầu tạo báo giá."
+
+msgid "Currency"
+msgstr "Tiền tệ"
+
+msgid "Select"
+msgstr "Chọn"
+
+msgid "Currency type"
+msgstr "Loại tiền tệ"
+
+msgid "Symbol position"
+msgstr "Vị trí tiền tệ"
+
+msgid "Left"
+msgstr "Trái"
+
+msgid "Right"
+msgstr "Phải"
+
+msgid "Thousand separator"
+msgstr "Kí tự ngăn cách phần ngàn"
+
+msgid "Decimal separator"
+msgstr "Dấu cách phần thập phân"
+
+msgid "Number of decimals"
+msgstr "Số chữ số phần thập phân"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Create new quote"
+msgstr "Tạo báo giá mới"
+
+msgid "Quote sent from Website"
+msgstr "Báo giá được gửi từ Website"
+
+msgid "Required field to enter"
+msgstr "Trường bắt buộc nhập"
+
+msgid "Your name"
+msgstr "Họ tên"
+
+msgid "Your phone"
+msgstr "Điện thoại"
+
+msgid "Your email"
+msgstr "Email"
+
+msgid "Company name"
+msgstr "Công ty"
+
+msgid "Leave message"
+msgstr "Để lại lời nhắn"
+
+msgid "Require checked"
+msgstr "Bắt buộc chọn"
+
+msgid "Start"
+msgstr "Bắt đầu"
+
+msgid "Note"
+msgstr "Ghi chú"
+
+msgid "Bonus"
+msgstr "Tặng kèm"
+
+msgid "Copied"
+msgstr "Đã sao chép"

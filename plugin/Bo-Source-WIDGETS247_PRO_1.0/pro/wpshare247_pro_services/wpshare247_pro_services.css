@@ -1,0 +1,47 @@
+.content-wg-wpshare247_pro_services .section-padding{ padding: 90px 0; }
+.content-wg-wpshare247_pro_services a{ text-decoration:none; color: #111; font-weight: 400; }
+.content-wg-wpshare247_pro_services  .section-header {
+	margin: 0 auto;
+	max-width: 900px;
+	padding-bottom: 70px;
+	position: relative;
+}
+.content-wg-wpshare247_pro_services  .heading_style2{
+	margin: 0;
+	max-width: 940px;
+	padding-left: 90px;
+	position: relative;
+}
+.content-wg-wpshare247_pro_services .section-header h2 {
+	margin: 0;
+	color: #111;
+	font-weight: 400
+}
+.content-wg-wpshare247_pro_services h5{
+	color: #111;
+	font-weight: 400;
+}
+.content-wg-wpshare247_pro_services .section-header.heading_style2::after {
+	background: #111;
+	height: 2px;
+	left: 0;
+	position: absolute;
+	top: 24px;
+	width: 65px;
+	content: "";
+}
+.content-wg-wpshare247_pro_services .service_box p {
+	font-size: 15px;
+	line-height: 26px;
+}
+
+.content-wg-wpshare247_pro_services .service_box {
+	margin-bottom: 30px;
+}
+
+
+@media only screen and (max-width: 767px) {
+	.content-wg-wpshare247_pro_services .service_box {
+		margin-bottom: 30px;
+	}
+}

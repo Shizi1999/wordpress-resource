@@ -1,0 +1,129 @@
+.content-wg-wpshare247_pro_team .section-padding{ padding: 90px 0; }
+.content-wg-wpshare247_pro_team  .heading_style2{
+	max-width: 940px;
+	padding-left: 90px;
+	position: relative;
+}
+.content-wg-wpshare247_pro_team .section-header {
+	max-width: 900px;
+	padding-bottom: 70px;
+	position: relative;
+}
+.content-wg-wpshare247_pro_team .section-header h2 {
+	margin: 0;
+	color: #111;
+	font-weight: 400
+}
+.content-wg-wpshare247_pro_team .section-header.heading_style2::after {
+	background: #111;
+	height: 2px;
+	left: 0;
+	position: absolute;
+	top: 24px;
+	width: 65px;
+	content: "";
+}
+
+.team_wrap {
+  overflow: hidden;
+  border: 1px solid #e5e3e3;
+  transition-duration: 0.3s;
+  -moz-transition-duration: 0.3s;
+  -o-transition-duration: 0.3s;
+  -webkit-transition-duration: 0.3s;
+}
+.team_wrap:hover .member_social_info {
+  bottom: 0;
+  opacity: 1;
+  transform: scale(1);
+  -moz-transform: scale(1);
+  -o-transform: scale(1);
+  -webkit-transform: scale(1);
+}
+.team_wrap:hover .member_social_info ul {
+  left: 0;
+}
+.member_social_info {
+  position: absolute;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.85);
+  left: 0;
+  right: 0;
+  height: 100%;
+  opacity: 0;
+  width: 100%;
+  transition-duration: 0.3s;
+  -moz-transition-duration: 0.3s;
+  -o-transition-duration: 0.3s;
+  -webkit-transition-duration: 0.3s;
+  transform: scale(0);
+  -moz-transform: scale(0);
+  -o-transform: scale(0);
+  -webkit-transform: scale(0);
+}
+.member_social_info ul {
+  padding: 0;
+  margin: 0 auto;
+  position: relative;
+  text-align: center;
+  top: 50%;
+  left: -1000px;
+  transition-duration: 0.5s;
+  -moz-transition-duration: 0.5s;
+  -o-transition-duration: 0.5s;
+  -webkit-transition-duration: 0.5s;
+  transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+}
+.member_social_info ul li {
+  display: inline-block;
+  vertical-align: top;
+  list-style: none;
+  margin-top:0;
+}
+.member_social_info ul li a {
+  display: block;
+  color: #fff;
+  font-size: 20px;
+  border-radius: 3px;
+  border: 1px solid #fff;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  margin: 0 2px;
+}
+.member_social_info ul li a:hover {
+  background: #3f73d1;
+  color: #fff;
+  border-color: #3f73d1;
+}
+.member_social_info ul li .fa {
+  margin: 0 auto;
+}
+.member_img {
+  overflow: hidden;
+  position: relative;
+  transition-duration: 0.3s;
+  -moz-transition-duration: 0.3s;
+  -o-transition-duration: 0.3s;
+  -webkit-transition-duration: 0.3s;
+}
+.member_img img{ width:100%; }
+.member_info {
+  padding: 25px;
+}
+.member_info h5 {
+  margin: 0 auto 4px;
+}
+.member_info p {
+  font-size: 14px;
+  margin: 0 auto;
+  color: #7f7f7f;
+}
+.content-wg-wpshare247_pro_team .team_wrap{ margin-bottom:15px; }
+@media only screen and (max-width: 767px) {
+	
+}

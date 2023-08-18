@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+.wpshare247-new-option-style .form-table td{ padding:0; padding-bottom:10px; }
+.wpshare247-new-option-style .form-table .title{ margin-bottom:5px; margin-top:5px; }
+.quote_qqfs-block{ float:left; }
+#arr_qqfs_options{ width:100%; }
+#arr_qqfs_options thead{
+	background: #f0f0f1;
+}#arr_qqfs_options thead th, #arr_qqfs_options td{ padding:5px }
+#arr_qqfs_options tr td{
+	border: #eee solid 1px;
+	padding-top: 10px;
+	 padding-bottom: 10px;
+}
+
+.quote_qqfs_shortcode{
+	border: 1px solid #ccc;
+	padding: 5px;
+	text-align: center;
+	cursor: copy;
+}
+
+#quote_qqfs_steps .header{ font-weight:bold; }
+#quote_qqfs_steps .sortcontainer > li{ 
+	display: inline-block;
+	border: 1px solid #ccc;
+	padding: 4px 10px;
+	cursor: move;
+	margin-right:10px;
+}
+#quote_qqfs_steps .sortcontainer{
+	border: 1px solid #ccc;
+	padding: 15px;
+}
+#quote_qqfs_steps #qqfs-option-bx-rel.sortcontainer > li{
+	display:block;
+	background: #f0f0f1;
+	counter-increment: item;
+	margin-bottom: 5px;
+	margin-right:0;
+}
+#quote_qqfs_steps #qqfs-option-bx-rel{
+	list-style: none;
+	counter-reset: item;
+}
+#quote_qqfs_steps #qqfs-option-bx-rel.sortcontainer > li:before {
+	margin-right: 10px;
+	content: counter(item);
+	background: #2271b1;
+	border-radius: 50px;
+	color: white;
+	width: 20px;
+	height: 20px;
+	text-align: center;
+	display: inline-block;
+ }
+ #quote_qqfs_after_form_box textarea, .quote-qqfs-100{ width:100%; }
+ 
+ .quote-detail-mtbox .group{
+	margin-bottom: 20px;
+	border: 1px solid #f0f0f1;
+	padding: 10px 20px;
+}
+ .quote-detail-mtbox .header{
+	font-weight: bold;
+}
+.quote-detail-mtbox .header2{
+	font-weight: 500;
+	text-decoration: underline;
+}
+.quote-detail-mtbox .quote-request{
+	font-size: 2rem;
+}
+body.post-type-req_quote_qqfs_pt #titlewrap{
+	display:none;
+}
+
+@media screen and (max-width: 782px){
+	#arr_qqfs_options colgroup{ display:none; width:100%; }
+	#arr_qqfs_options thead{ display:none; }
+	.form-table .quote_qqfs-block{ width:100%; }
+	#js_ws247_quote_qqfs_add_option{ margin-top:20px; }
+}

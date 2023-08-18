@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* Lightbox content images - WPSHARE247 */
+body.wpshare247-lightbox-lcimages .fancybox-container{ z-index:9999999; }
+
+.lightbox-lcimages a[data-fancybox] {
+    position: relative;
+    display: block;
+}
+
+.lightbox-lcimages a[data-fancybox]:before {
+    content: "\f179";
+	font-family: dashicons;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    z-index: 111;
+    font-size: 13px;
+    background: rgba(0, 0, 0, 0.6901960784313725);
+    color: #fff;
+	width: 31px;
+    height: 31px;
+    text-align: center;
+    line-height: 31px;
+    border-radius: 50px
+}
+
+.lightbox-lcimages.zoom_icon_pos-1 a[data-fancybox]:before {
+	right: 10px;
+    bottom: 10px;
+	top: auto;
+}
+
+.lightbox-lcimages.zoom_icon_pos-2 a[data-fancybox]:before {
+	left: 10px;
+    bottom: 10px;
+	top: auto;
+}
+
+.lightbox-lcimages.zoom_icon_pos-3 a[data-fancybox]:before {
+	left: 10px;
+}
+
+.lightbox-lcimages.zoom_icon_pos-4 a[data-fancybox]:before {
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+}
+
+.lightbox-lcimages.zoom_icon_pos-5 a[data-fancybox]:before {
+	display:none;
+}

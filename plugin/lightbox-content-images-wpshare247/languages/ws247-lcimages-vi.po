@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-12-11 10:34+0700\n"
+"PO-Revision-Date: 2021-07-16 19:01+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Lightbox content images - WPSHARE247 - Stable (latest release)\n"
+
+#: inc/option-form-template.php
+msgid "Lightbox content images - WPSHARE247"
+msgstr "Phóng to các ảnh trong nội dung bài viết, trang, custom post type"
+
+msgid "Configure Lightbox Images"
+msgstr "Cấu hình Lightbox Images"
+
+msgid "Enable for post type"
+msgstr "Chọn loại"
+
+msgid "Disable"
+msgstr "Vô hiệu hóa"
+
+msgid "Temporarily off"
+msgstr "Tắt tạm thời"
+
+msgid "Zoom Icon"
+msgstr "Kính lúp"
+
+msgid "Top right"
+msgstr "Trên phải"
+
+msgid "Bottom right"
+msgstr "Dưới phải"
+
+msgid "Bottom left"
+msgstr "Dưới trái"
+
+msgid "Top left"
+msgstr "Trên trái"
+
+msgid "Center"
+msgstr "Trung tâm"
+
+msgid "Hide"
+msgstr "Ẩn"
